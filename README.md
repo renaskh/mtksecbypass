@@ -1,0 +1,2 @@
+# mtksecbypass
+MTK Sec Bypass

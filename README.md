@@ -17,3 +17,21 @@ To get started with bypassing Brom security on MediaTek chipsets, follow these s
 
 1. **Clone the Repository**: Clone this repository to your local machine using:
    
+
+2. **Explore Documentation**: Refer to the documentation provided in the repository to understand the bypass process, required tools, and device compatibility.
+
+3. **Execute Bypass Process**: Follow the step-by-step instructions in the documentation to execute the Brom security bypass process on your MediaTek device.
+
+4. **Contribute**: If you encounter any issues, have suggestions for improvements, or want to contribute to the project, feel free to open an issue or submit a pull request.
+
+## Documentation
+
+The documentation for this project can be found in the [docs](docs/) directory of this repository. It includes detailed guides, FAQs, and troubleshooting tips to assist you in bypassing Brom security on MediaTek chipsets.
+
+## Support
+
+For any questions, issues, or feedback related to this project, please open an issue on the [GitHub repository](https://github.com/yourusername/mediatek-chipset-bypass/issues). Your feedback is highly appreciated!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
